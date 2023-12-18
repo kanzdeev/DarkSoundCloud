@@ -13,3 +13,4 @@ Electron application for testing platform features and capabilities.
 - [TypeScript](https://www.typescriptlang.org/): Typed superset of JavaScript.
 
 also ai generated that readmeXD!
++ .exe upcoming
